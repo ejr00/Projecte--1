@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Laura Torres",
+      "role": "Full Stack Developer",
+      "bio": "Desenvolupador web amb anys d’experiència creant solucions digitals modernes, funcionals i orientades a l’usuari.",
+      "image": "img1.jpg",
+      "projects": [
+        { "title": "Cartelera Netflix", "description": "Desenvolupa una cartellera per a netflix amb la puntuació i la seva descripció de cada sèrie", "img": "pro1.png" },
+        { "title": "Mediamarkt", "description": "Encarregat de crear la pàgina principal de mediamarkt", "img": "pro2.png" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marc Vidal",
+      "role": "Frontend Developer",
+      "bio": "Desenvolupador de pagines web amb anys d'experiència.",
+      "image": "img2.jpg",
+      "projects": [
+        { "title": "Mediamarkt", "description": "Encarregat i supervisor de crear la pàgina principal de mediamarkt", "img": "pro2.png" }
+      ]
+    }
+  ]
+}
