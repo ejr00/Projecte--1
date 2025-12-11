@@ -4,10 +4,11 @@ export default function Landing({ member }) {
       <h1>{member.name}</h1>
       <h2>{member.role}</h2>
       <p>{member.bio}</p>
-      <img src={"/public/images/"+member.image} alt={member.name} style={{"height":"200px"}} />
+      <img src={"Projecte--1/public/images/"+member.image} alt={member.name} style={{"height":"200px"}} />
     </section>
   )
 }
 
 
  
+
